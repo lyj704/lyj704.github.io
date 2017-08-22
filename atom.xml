@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-22T22:20:02.003Z</updated>
+  <updated>2017-08-22T23:35:59.450Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/08/01/Resume/"/>
     <id>http://yoursite.com/2017/08/01/Resume/</id>
     <published>2017-08-01T01:21:40.000Z</published>
-    <updated>2017-08-22T22:20:02.003Z</updated>
+    <updated>2017-08-22T23:35:59.450Z</updated>
     
     <content type="html"><![CDATA[<h1 id="基本情况"><a href="#基本情况" class="headerlink" title="基本情况"></a>基本情况</h1><p>男 | 未婚 | 32岁 | 户口：北京（留学服务中心） | 现居：北京</p>
 <h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><p>lyj704@163.com</p>
@@ -63,7 +63,7 @@
 <li>Li, Y., Huang, Q., Hedlind, M., Sivard, G., Lundgren, M. and Kjellberg, T. (2014a). Representation and exchange of digital catalogues of cutting tools. Proceedings of ASME 2014 International Manufacturing Science and Engineering Conference, Detroit. DOI: 10.1115/MSEC2014-4131.</li>
 <li>Li, Y., Chen, D., Kjellberg, T. J. and Sivard, G. (2014b). User friendly development architecture for standardised modelling: STEP toolbox, International Journal of Manufacturing Research, Vol. 9, No. 4, pp. 429-447. DOI: 10.1504/IJMR.2014.066663.</li>
 <li>Li, Y., Hedlind, M., Kjellberg, T. and Sivard, G. (2014c). System integration for kinematic data exchange, International Journal of Computer Integrated Manufacturing, Vol. 28, No. 1, pp. 87-97. DOI: 10.1080/0951192X.2014.941937.</li>
-<li>Li, Y., Hedlind, M., &amp; Kjellberg, T. (2015b). Usability Evaluation of CADCAM: State of the Art, Procedia CIRP, Vol. 36, pp. 205-210. DOI: 10.1016/j.procir.2015.01.053.</li>
+<li>Li, Y., Hedlind, M., &amp; Kjellberg, T. (2015). Usability Evaluation of CADCAM: State of the Art, Procedia CIRP, Vol. 36, pp. 205-210. DOI: 10.1016/j.procir.2015.01.053.</li>
 <li>Li, Y. (2017). Architecting Model Driven System Integration in Production Engineering, Doctoral Thesis (Monograph), Stockholm: Royal Institute of Technology. ISBN: 978-91-7729-416-0.</li>
 </ul>
 ]]></content>
