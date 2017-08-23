@@ -90,7 +90,7 @@
     <link href="http://yoursite.com/2017/04/10/SUCCES/"/>
     <id>http://yoursite.com/2017/04/10/SUCCES/</id>
     <published>2017-04-09T23:50:23.000Z</published>
-    <updated>2017-08-23T00:54:38.364Z</updated>
+    <updated>2017-08-23T01:11:58.765Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/4379478-7c1bc24c5d33b280.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>本文介绍六个基本原则，用以指导写作（尤其是实用类作品或科研论文）：</p>
 <ul>
@@ -109,8 +109,7 @@
 </ul>
 <hr>
 <h1 id="简单（Simple）"><a href="#简单（Simple）" class="headerlink" title="简单（Simple）"></a>简单（Simple）</h1><p>这也许是最重要的原则。</p>
-<p>###1.1 什么是简单</p>
-<blockquote>
+<h2 id="什么是简单"><a href="#什么是简单" class="headerlink" title="什么是简单"></a>什么是简单</h2><blockquote>
 <p>Simple ideas have power (简单的观点有说服力) - J. Schimel</p>
 </blockquote>
 <p>简单的表述可以有力地解释科学理论。比如“自然选择”、“DNA双螺旋结构”、“板块漂移”。这些简单的表述清晰准确地传递了科学理论中的关键部分。无论是科学家还是路人甲都能完整理解、记忆、甚至应用。</p>
@@ -141,8 +140,7 @@
 <h3 id="防止过分单纯化（Avoid-simplistic）"><a href="#防止过分单纯化（Avoid-simplistic）" class="headerlink" title="防止过分单纯化（Avoid simplistic）"></a>防止过分单纯化（Avoid simplistic）</h3><p>对于复杂的观点，简化是浓缩，不是忽略。仔细观察问题、数据、结果，从这些“角色”中找到简单的真实故事。不要因为追求简单而将自己的观点平凡化；更不要为了简化而回避核心的问题。</p>
 <hr>
 <h1 id="意外（Unexpected）"><a href="#意外（Unexpected）" class="headerlink" title="意外（Unexpected）"></a>意外（Unexpected）</h1><p>好奇是人的天性。好故事从定义新奇的现有知识缺口（或知识沟，knowledge gap）开始。</p>
-<p>###2.1 制造意外的原则</p>
-<ol>
+<h2 id="制造意外的原则"><a href="#制造意外的原则" class="headerlink" title="制造意外的原则"></a>制造意外的原则</h2><ol>
 <li>在开头引起好奇（curiosity），通过提出现存知识缺口。</li>
 <li>在结尾制造新奇（novelty），通过填补知识缺口。</li>
 </ol>
