@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-26T02:00:16.162Z</updated>
+  <updated>2017-08-29T23:04:00.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/08/01/Resume/"/>
     <id>http://yoursite.com/2017/08/01/Resume/</id>
     <published>2017-08-01T01:21:40.000Z</published>
-    <updated>2017-08-26T02:00:16.162Z</updated>
+    <updated>2017-08-29T23:04:00.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="1-基本情况"><a href="#1-基本情况" class="headerlink" title="1. 基本情况"></a>1. 基本情况</h1><p>男 | 未婚 | 32岁 | 户口：北京（留学服务中心） | 现居：北京</p>
 <h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><p>lyj704@163.com<br>（其他联系方式请见PDF版简历或邮件询问本人）</p>
@@ -44,27 +44,27 @@
 <li>调查分析新能源产业（LED 及电动车）的投资前景。</li>
 </ul>
 <h1 id="4-项目经历"><a href="#4-项目经历" class="headerlink" title="4. 项目经历"></a>4. 项目经历</h1><h2 id="2014-2017-模型驱动的工艺规划和质量保证（瑞典国家级科研项目）"><a href="#2014-2017-模型驱动的工艺规划和质量保证（瑞典国家级科研项目）" class="headerlink" title="2014 - 2017 模型驱动的工艺规划和质量保证（瑞典国家级科研项目）"></a>2014 - 2017 模型驱动的工艺规划和质量保证（瑞典国家级科研项目）</h2><p>Model driven Process and Quality Planning（MPQP）</p>
-<h3 id="职责"><a href="#职责" class="headerlink" title="职责"></a>职责</h3><p>研发基于标准化信息模型的交互设计和软件工程方法论。<br>完成交互设计和软件架构。<br>作为最主要的开发者，开发基于Java 和OpenGL 的相关应用。</p>
-<h3 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h3><p>本项目旨在显著提高制造业企业工艺设计和质量保证的能力。以标准化的信息模型为基础，为产品开发的风险评估提供专业化的解决方案，并彻底摒弃业内低效的基于电子表格（如Excel）的传统做法。<br>本项目的参与者均为业内领先的单位，包括瑞典皇家理工学院、沃尔沃技术公司、沃尔沃汽车公司、斯堪尼亚集团、山特维克集团。</p>
+<h3 id="职责"><a href="#职责" class="headerlink" title="职责"></a>职责</h3><p>针对风险控制标准（PFMEA），研发基于标准化信息模型的系统集成架构。<br>作为最主要的开发者，开发基于Java 和OpenGL 的相关应用。</p>
+<h3 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h3><p>本项目旨在显著提高制造业企业工艺设计和质量保证的能力。以标准化的信息模型为基础，为产品开发的风险评估（PFMEA）提供专业化、可视化、一体化的解决方案，并彻底摒弃业内低效的基于电子表格（如Excel）的传统做法。<br>本项目的参与者均为业内领先的单位，包括瑞典皇家理工学院、沃尔沃技术公司、沃尔沃汽车公司、斯堪尼亚集团、山特维克集团。</p>
 <h2 id="2009-2013-基于特征的工艺规划（瑞典国家级科研项目）"><a href="#2009-2013-基于特征的工艺规划（瑞典国家级科研项目）" class="headerlink" title="2009 - 2013 基于特征的工艺规划（瑞典国家级科研项目）"></a>2009 - 2013 基于特征的工艺规划（瑞典国家级科研项目）</h2><p>Feature Based Operation Planning (FBOP)</p>
-<h3 id="职责-1"><a href="#职责-1" class="headerlink" title="职责"></a>职责</h3><p>为了有效全面地支持应用场景，提出并开发了基于标准化信息架构的系统集成架构。<br>为项目伙伴开发相关的软件，并帮助他们在企业内部部署。</p>
-<h3 id="项目简介-1"><a href="#项目简介-1" class="headerlink" title="项目简介"></a>项目简介</h3><p>本项目旨在为产品制造领域的信息交流提供合适的平台，以有效全面地表达产品设计、制造、生产资源的相关信息。研究人员将研究如何应用和开发相关国际标准，为产品制造的彻底自动化提供可被广泛接受的信息模型。<br>本项目的参与单位均为业内领先的组织，包括瑞典皇家理工学院、沃尔沃、沃尔沃汽车、斯堪尼亚、山特维克、西门子、PTC等等。</p>
-<h2 id="2009-2013-数字化工厂信息要素（瑞典国家级科研项目）"><a href="#2009-2013-数字化工厂信息要素（瑞典国家级科研项目）" class="headerlink" title="2009 - 2013 数字化工厂信息要素（瑞典国家级科研项目）"></a>2009 - 2013 数字化工厂信息要素（瑞典国家级科研项目）</h2><p>Digital Factory Building blocks (DFBB)</p>
+<h3 id="职责-1"><a href="#职责-1" class="headerlink" title="职责"></a>职责</h3><p>为制造资源（如机床、机器人、刀具）的合理利用，提出并开发了基于标准化信息架构的系统集成架构。<br>为项目伙伴开发相关的软件，并帮助他们在企业内部部署。</p>
+<h3 id="项目简介-1"><a href="#项目简介-1" class="headerlink" title="项目简介"></a>项目简介</h3><p>本项目旨在为产品生产工艺规划的信息交流提供合适的平台，有效全面地表达产品设计、制造、生产资源的相关信息。研究人员将研究如何应用和开发相关国际标准，为产品制造的信息化提供可被广泛接受的信息模型。<br>本项目的参与单位均为业内领先的组织，包括瑞典皇家理工学院、沃尔沃、沃尔沃汽车、斯堪尼亚、山特维克、西门子、PTC等等。</p>
+<h2 id="2009-2013-数字化工厂信息要素（瑞典国家级科研项目）"><a href="#2009-2013-数字化工厂信息要素（瑞典国家级科研项目）" class="headerlink" title="2009 - 2013 数字化工厂信息要素（瑞典国家级科研项目）"></a>2009 - 2013 数字化工厂信息要素（瑞典国家级科研项目）</h2><p>Digital Factory Building Blocks (DFBB)</p>
 <h3 id="职责-2"><a href="#职责-2" class="headerlink" title="职责"></a>职责</h3><p>研究如何将ISO数据标准应用于数字化工业场景的系统集成方案。<br>为相应CAD系统开发插件，并为项目伙伴企业开发了可直接使用的编程接口。</p>
 <h3 id="项目简介-2"><a href="#项目简介-2" class="headerlink" title="项目简介"></a>项目简介</h3><p>本项目旨在为数字化工厂提供完整的信息表达模型库。生产资源可以被各种各样的数字应用快速访问和更新，并且在整个产品生命周期中保持精确。<br>本项目参与单位均在瑞典知名，包括瑞典皇家理工学院、沃尔沃集团、斯堪尼亚、查尔姆斯理工。</p>
 <h2 id="2009-手机导航系统人员交互绩效建模研究（清华-诺基亚合作项目）"><a href="#2009-手机导航系统人员交互绩效建模研究（清华-诺基亚合作项目）" class="headerlink" title="2009 手机导航系统人员交互绩效建模研究（清华-诺基亚合作项目）"></a>2009 手机导航系统人员交互绩效建模研究（清华-诺基亚合作项目）</h2><h3 id="职责-3"><a href="#职责-3" class="headerlink" title="职责"></a>职责</h3><p>研发针对移动交互的用户绩效评估模型。组织并实施现场实验测试模型精确度。<br>开发基于Java 的评估软件。</p>
 <h3 id="项目简介-3"><a href="#项目简介-3" class="headerlink" title="项目简介"></a>项目简介</h3><p>清华大学与诺基亚（中国）合作，旨在研究一套有效的模型评估手机导航APP的交互绩效。</p>
 <h1 id="5-论文发表（第一作者）"><a href="#5-论文发表（第一作者）" class="headerlink" title="5. 论文发表（第一作者）"></a>5. 论文发表（第一作者）</h1><ul>
-<li>Li, Y., Hedlind, M. and Kjellberg, T. (2011). Implementation of kinematic mechanism data exchange based on STEP, Proceedings of the 7th CIRPSponsored International Conference on Digital Enterprise Technology, pp. 152-159, Athens. ISBN: 978-960-88104-2-6.</li>
-<li>Li, Y., Hedlind, M. and Kjellberg, T. (2012a). Kinematic error modeling based on STEP AP242, Proceedings of the 1st CIRP Sponsored Conference on Virtual Machining Process Technology, Montreal.</li>
-<li>Li, Y., Su, R., Hedlind, M., Ekberg, P., Kjellberg, T. and Mattsson, L. (2012b). Model based in-process monitoring with optical coherence tomography, Procedia CIRP, Vol. 2, pp. 70-73. DOI: 10.1016/j.procir.2012.05.042.</li>
-<li>Li, Y., Hedlind, M., Kjellberg, T. and Sivard, G. (2013a). Cutting tool data representation and implementation based on STEP AP242, Smart Production Engineering, pp. 483-492, Berlin/Heidelberg: Springer-Verlag. DOI: 10.1007/978-3-642-30817-8_47.</li>
-<li>Li, Y. (2013b). Development architecture for industrial data management, Licentiate Thesis, Stockholm: Royal Institute of Technology. ISBN: 978-92-7502-903-1.</li>
+<li>Li, Y. (2017). Architecting Model Driven System Integration in Production Engineering, Doctoral Thesis (Monograph), Stockholm: Royal Institute of Technology. ISBN: 978-91-7729-416-0.</li>
+<li>Li, Y., Hedlind, M., &amp; Kjellberg, T. (2015). Usability Evaluation of CADCAM: State of the Art, Procedia CIRP, Vol. 36, pp. 205-210. DOI: 10.1016/j.procir.2015.01.053.</li>
 <li>Li, Y., Huang, Q., Hedlind, M., Sivard, G., Lundgren, M. and Kjellberg, T. (2014a). Representation and exchange of digital catalogues of cutting tools. Proceedings of ASME 2014 International Manufacturing Science and Engineering Conference, Detroit. DOI: 10.1115/MSEC2014-4131.</li>
 <li>Li, Y., Chen, D., Kjellberg, T. J. and Sivard, G. (2014b). User friendly development architecture for standardised modelling: STEP toolbox, International Journal of Manufacturing Research, Vol. 9, No. 4, pp. 429-447. DOI: 10.1504/IJMR.2014.066663.</li>
 <li>Li, Y., Hedlind, M., Kjellberg, T. and Sivard, G. (2014c). System integration for kinematic data exchange, International Journal of Computer Integrated Manufacturing, Vol. 28, No. 1, pp. 87-97. DOI: 10.1080/0951192X.2014.941937.</li>
-<li>Li, Y., Hedlind, M., &amp; Kjellberg, T. (2015). Usability Evaluation of CADCAM: State of the Art, Procedia CIRP, Vol. 36, pp. 205-210. DOI: 10.1016/j.procir.2015.01.053.</li>
-<li>Li, Y. (2017). Architecting Model Driven System Integration in Production Engineering, Doctoral Thesis (Monograph), Stockholm: Royal Institute of Technology. ISBN: 978-91-7729-416-0.</li>
+<li>Li, Y., Hedlind, M., Kjellberg, T. and Sivard, G. (2013a). Cutting tool data representation and implementation based on STEP AP242, Smart Production Engineering, pp. 483-492, Berlin/Heidelberg: Springer-Verlag. DOI: 10.1007/978-3-642-30817-8_47.</li>
+<li>Li, Y. (2013b). Development architecture for industrial data management, Licentiate Thesis, Stockholm: Royal Institute of Technology. ISBN: 978-92-7502-903-1.</li>
+<li>Li, Y., Hedlind, M. and Kjellberg, T. (2012a). Kinematic error modeling based on STEP AP242, Proceedings of the 1st CIRP Sponsored Conference on Virtual Machining Process Technology, Montreal.</li>
+<li>Li, Y., Su, R., Hedlind, M., Ekberg, P., Kjellberg, T. and Mattsson, L. (2012b). Model based in-process monitoring with optical coherence tomography, Procedia CIRP, Vol. 2, pp. 70-73. DOI: 10.1016/j.procir.2012.05.042.</li>
+<li>Li, Y., Hedlind, M. and Kjellberg, T. (2011). Implementation of kinematic mechanism data exchange based on STEP, Proceedings of the 7th CIRPSponsored International Conference on Digital Enterprise Technology, pp. 152-159, Athens. ISBN: 978-960-88104-2-6.</li>
 </ul>
 <h1 id="6-证明人"><a href="#6-证明人" class="headerlink" title="6. 证明人"></a>6. 证明人</h1><p>Dr. Torsten Kjellberg<br>教授，生产工程系，瑞典皇家理工学院<br>+46(0)8790 9069 torstenk@kth.se</p>
 <p>Dr. Mikael Hedlind<br>研究工程师，斯堪尼亚集团（瑞典）<br>mikael.hedlind@scania.com</p>
